@@ -1,0 +1,12 @@
+bookstore
+field-cultivated
+zen_garden
+topiary_garden
+bar
+hospital
+dorm_room
+cafeteria
+arcade
+fountain
+tower
+beach
